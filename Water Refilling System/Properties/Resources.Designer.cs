@@ -63,6 +63,16 @@ namespace Water_Refilling_System.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _05c8e051_3d50_4793_9995_9b5f53cda9a9 {
+            get {
+                object obj = ResourceManager.GetObject("05c8e051-3d50-4793-9995-9b5f53cda9a9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap bg {
             get {
                 object obj = ResourceManager.GetObject("bg", resourceCulture);
@@ -106,6 +116,16 @@ namespace Water_Refilling_System.Properties {
         internal static System.Drawing.Bitmap Untitled_design__1_ {
             get {
                 object obj = ResourceManager.GetObject("Untitled design (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Your_paragraph_text {
+            get {
+                object obj = ResourceManager.GetObject("Your paragraph text", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
